@@ -1,0 +1,8 @@
+arethejaysintheplayoffs.py
+setup.py
+arethejaysintheplayoffs.egg-info/PKG-INFO
+arethejaysintheplayoffs.egg-info/SOURCES.txt
+arethejaysintheplayoffs.egg-info/dependency_links.txt
+arethejaysintheplayoffs.egg-info/entry_points.txt
+arethejaysintheplayoffs.egg-info/requires.txt
+arethejaysintheplayoffs.egg-info/top_level.txt
